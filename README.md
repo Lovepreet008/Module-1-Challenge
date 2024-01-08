@@ -28,10 +28,14 @@ Pivot Tables and Charts
 Add a new sheet with a pivot table analyzing the initial worksheet to count the number of successful, failed, canceled, and live campaigns per category.
 Create a stacked-column pivot chart allowing filtering by country based on the table created.
 Add another sheet containing a pivot table analyzing the initial sheet to count the number of campaigns per sub-category. Create a stacked-column pivot chart with filters for country and parent category.
+<img width="953" alt="CategoryStats" src="https://github.com/Lovepreet008/excel-challenge/assets/142189383/7fa23a31-b137-4928-9e3a-93345c4535fa">
 
 Date Conversion
 
 Create two new columns, Date Created Conversion and Date Ended Conversion, using a formula to convert Unix timestamps into Excel's date format.
+
+<img width="289" alt="DateConversion" src="https://github.com/Lovepreet008/excel-challenge/assets/142189383/a9c586d1-e584-46dc-9b38-e79d2469f34f">
+
 
 Time Series Analysis
 
