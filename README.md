@@ -11,6 +11,8 @@ Conditional Formatting for Outcome Column
 
 Apply conditional formatting to the Outcome column. Each cell is filled with a different color based on the campaign's status: successful, failed, canceled, or live.
 
+![Screenshot](https://github.com/Lovepreet008/excel-challenge/assets/142189383/e3f6be6b-eb11-46b3-8d65-d1e1f8621c3e)
+
 Percent Funded Column
 Create a new column named Percent Funded using a formula to calculate the percentage of money a campaign made relative to its initial funding goal. Apply conditional formatting to this column using a three-color scale.
 
